@@ -1,6 +1,6 @@
 # Création d'un Chams Hack pour DirectX9  
 > Il est important de noter que ces manipulations sont présentées uniquement à des fins éducatives et de compréhension des principes sous-jacents du développement de jeux.
-![cod4chamshack](https://github.com/mathisfr/D3D9-CHAMS-EXPLAINED/blob/main/cod4chams.png)
+![D3D9 chams](https://github.com/mathisfr/D3D9-CHAMS/blob/main/cod4chams.png)
 * **Introduction**  
 Bienvenue dans ce tutoriel dédié à l'explication du fonctionnement d'un chams hack pour DirectX9.  
 Les chams hacks sont des modifications de rendus graphiques dans les jeux vidéo qui permettent de rendre les modèles des joueurs plus visibles, facilitant ainsi leur détection.  
